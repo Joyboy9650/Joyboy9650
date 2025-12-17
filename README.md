@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Rahul Kumar
 
-<!--
-**Joyboy9650/Joyboy9650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- SQL (MySQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, VLOOKUP)
+- Power BI (Dashboards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- SQL Practice Queries
+- Data Cleaning using Python
+- Power BI HR Dashboard
+
+### 📫 Connect
+- LinkedIn: (add later)
+
