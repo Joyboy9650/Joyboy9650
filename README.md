@@ -16,5 +16,5 @@
 - Power BI HR Dashboard
 
 ### 📫 Connect
-- LinkedIn: (add later)
+- LinkedIn: www.linkedin.com/in/rahul-kumar-407a36202
 
