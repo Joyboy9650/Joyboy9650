@@ -8,6 +8,7 @@
 - Python (Pandas, NumPy, Matplotlib)
 - Excel (Pivot Tables, VLOOKUP)
 - Power BI (Dashboards)
+- tableau (Dashboards)
 
 ### 📂 Projects
 - SQL Practice Queries
