@@ -69,7 +69,7 @@ An AI/ML project exploring deepfake detection using multimodal approaches and ma
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joyboy9650)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-407a36202/)
 
 💬 Always open to learning, collaborating, and building something awesome!
 
